@@ -16,7 +16,4 @@ blue = (0, 0, 255)
 # creates a surface
 gameDisplay = pygame.display.set_mode((800,600)) # initializes with a tuple
 
-# adds a title
-pygame.display.set_caption("Decorating Disaster!")
-
 pygame.display.update()
